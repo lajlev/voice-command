@@ -2,6 +2,14 @@
   "keywords": [
     {
       "keyword": [
+        "Lunch",
+        "Lunch today"
+      ],
+      "url": "http:\/\/c.laj.lv\/frokost.php",
+      "command":true
+    },
+    {
+      "keyword": [
         "Facebook",
         "Facebook page",
         "Facebook account",
