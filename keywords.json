@@ -10,6 +10,13 @@
     },
     {
       "keyword": [
+        "My workplace",
+      ],
+      "url": "http:\/\/boligportal.dk",
+      "command":true
+    },
+    {
+      "keyword": [
         "Facebook",
         "Facebook page",
         "Facebook account",
